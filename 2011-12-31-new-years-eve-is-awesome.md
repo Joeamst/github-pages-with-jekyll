@@ -1,6 +1,7 @@
+title: Joeamst
 
 ---
-tittle: Joeamst
+title: Joeamst
 date: 2022-06-25
 ---
 
