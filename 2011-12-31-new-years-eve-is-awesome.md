@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Your awesome title"
 date: 2022-06-25
 ---
 
