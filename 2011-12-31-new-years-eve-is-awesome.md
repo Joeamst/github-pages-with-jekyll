@@ -1,6 +1,8 @@
-title: Your awesome title
-
 ---
+title: Your awesome title
+date: 2022-06-25
+---
+
 title: "Welcome to my blog"
 author: GitHub User
 email: your-email@domain.com
