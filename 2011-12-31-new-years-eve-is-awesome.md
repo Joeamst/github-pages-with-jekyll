@@ -3,6 +3,7 @@ title: "Welcome to my blog"
 date: 2022-06-25
 ---
 
+title: "Welcome to my blog"
 author: GitHub User
 email: your-email@domain.com
 theme: minima
