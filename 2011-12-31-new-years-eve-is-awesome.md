@@ -1,4 +1,4 @@
-title: Joeamst
+title: Your awesome title
 
 ---
 title: Joeamst
