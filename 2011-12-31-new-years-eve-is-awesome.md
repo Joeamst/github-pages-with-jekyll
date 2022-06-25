@@ -1,9 +1,8 @@
----
 title: Your awesome title"
+---
 date: 2022-06-25
 ---
 
-title: 
 author: GitHub User
 email: your-email@domain.com
 theme: minima
