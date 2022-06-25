@@ -9,9 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # social links
-twitter_username: Joeamst
-github_username:  Joeamst
-
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 date: 2022-06-25
