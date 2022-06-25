@@ -1,4 +1,5 @@
-title: Your awesome title
+---
+title: "Welcome to my blog"
 author: GitHub User
 email: your-email@domain.com
 theme: minima
@@ -12,3 +13,7 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+date: 2022-06-25
+---
+
