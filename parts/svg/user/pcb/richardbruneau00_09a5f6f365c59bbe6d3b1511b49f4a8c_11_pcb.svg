@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.73 107.72" x="0px" id="Layer_1" y="0px" gorn="0" xml:space="preserve" enable-background="new 0 0 141.73 107.72" version="1.1" width="1.96847in" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="1.49611in" >
+    <desc >
+        <referenceFile >2-CHANNEL-RELAY_PCB_v1.svg</referenceFile>
+    </desc>
+    <metadata >
+        <sfw >
+            <slices />
+            <sliceSourceBounds x="6.001" y="-93.559" width="119.688" bottomLeftOrigin="true" height="78.707" />
+        </sfw>
+    </metadata>
+    <g id="copper1" gorn="0.2" >
+        <g id="copper0" gorn="0.2.0" >
+            <circle stroke-miterlimit="10" id="connector8pad" gorn="0.2.0.0" cx="8.917" cy="24.616" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector9pad" gorn="0.2.0.1" cx="8.917" cy="31.817" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector10pin" gorn="0.2.0.2" cx="8.917" cy="39.018" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector15pin" gorn="0.2.0.3" cx="122.637" cy="17.768" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector16pin" gorn="0.2.0.4" cx="122.637" cy="30.905" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector17pin" gorn="0.2.0.5" cx="122.637" cy="44.433" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector18pin" gorn="0.2.0.6" cx="122.772" cy="63.978" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector19pin" gorn="0.2.0.7" cx="122.772" cy="77.115" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector20pin" gorn="0.2.0.8" cx="122.772" cy="90.643" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector11pin" gorn="0.2.0.9" cx="8.917" cy="60.617" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector12pin" gorn="0.2.0.10" cx="8.917" cy="67.817" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector13pin" gorn="0.2.0.11" cx="8.917" cy="75.018" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+            <circle stroke-miterlimit="10" id="connector14pin" gorn="0.2.0.12" cx="8.917" cy="82.217" fill="none" stroke="#F5BD18" stroke-width="1" r="2.416" />
+        </g>
+    </g>
+</svg>
